@@ -12,3 +12,6 @@ Jupyter installation:
       (b). Use termux A command line tool  or install ubuntu via proot 
           commands to run:
   5. Launch jupyter with "python -m notebook" or "Jupyter notebook" via the terminal
+
+Credits: Python data scince Hand book by jake vanderplas Concider buying the book https://www.oreilly.com/library/view/python-data-science/9781491912126/
+@wambugu kinyua
